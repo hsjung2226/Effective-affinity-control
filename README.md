@@ -1,2 +1,2 @@
-# Effective-affinity-control-LP
+# Effective-affinity-control
 
